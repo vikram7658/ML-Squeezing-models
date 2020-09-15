@@ -20,7 +20,7 @@ In next model I will be using combination of (H, Q, D, K)
 
 Report accuracy are as follows:
 
-      **model**   **A**       **B**
+      model        A         B
       1. SVM      77.8 %    86.7 %
       2. RF       87 %      90 %
       
