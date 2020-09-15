@@ -1,6 +1,6 @@
 # ML-Squeezing-models
 
-In the Phd Thesis titles "Predicting Underground Tunnel Hazards using Machine Learning Technique", avialbale freely in the link * http://oa.upm.es/48301/1/Ning_Li.pdf *.
+In the Phd Thesis titles "Predicting Underground Tunnel Hazards using Machine Learning Technique", avialbale freely in the link http://oa.upm.es/48301/1/Ning_Li.pdf.
 
 Author has done anlysis on the Rock brust and Squeezing condition of different rock condition.For Rock brust the fearures taken in consideration is different as compared to squeezing rock condition. Aslo Rock brust has been checked for long terma and short term.
 
@@ -17,15 +17,16 @@ In the report data are divided on the basis of feature combination. I have on ot
 In next model I will be using combination of (H, Q, D, K)
 
 **Result:**
+
 Report accuracy are as follows:
 
-      **model      A          B**
+      **model**   **A**       **B**
       1. SVM      77.8 %    86.7 %
       2. RF       87 %      90 %
       
 
 The model I performed gave following result:
-     **model       A **        
-      1. SVM      79.16 %    
-      2. RF       91.6 %      
+     **model**       **A**        
+      1. SVM        79.16 %    
+      2. RF         91.6 %      
       
